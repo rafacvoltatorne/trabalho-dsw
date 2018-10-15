@@ -10,12 +10,13 @@ p.porcentos{
 }
 div.progress{
 	clear:both;
+
 }
 span.num{
 	font-weight: bold;
 }
-img.identificaçao{
-	border-radius: 20px;
+img.identificacao{
+	border-radius: 50%;
 	margin: 0px;
 	width: 50px;
 	height: 50px;
@@ -27,15 +28,24 @@ span.turno{
 	padding: 1px;
 	margin: 0px;
 }
-div.candidato{
-	width: 90%;
-	display: inline;
-}
-p.votos h4.porcentagem{
+div.esquerda{
 	float: left;
+}
+span.votos h4.porcentagem{
+	float: right;
 	display: inline;
 }
 .foto{
 	float: left;
 	display: inline;
+}
+
+.direita{
+	float: right;
+	
+
+}
+.informacoes{
+	width: 90%;
+	margin-left: 10px;
 }
