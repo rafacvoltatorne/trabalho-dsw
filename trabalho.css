@@ -1,0 +1,41 @@
+h1.titulo{
+	font-size: 50px;
+}
+div.eleiçao{
+	float: left;
+}
+p.porcentos{
+	float: right;
+	font-size: 50px;
+}
+div.progress{
+	clear:both;
+}
+span.num{
+	font-weight: bold;
+}
+img.identificaçao{
+	border-radius: 20px;
+	margin: 0px;
+	width: 50px;
+	height: 50px;
+}
+span.turno{
+	color:lightgreen;
+	border-radius: 20px;
+	border: solid 2px lightgreen;
+	padding: 1px;
+	margin: 0px;
+}
+div.candidato{
+	width: 90%;
+	display: inline;
+}
+p.votos h4.porcentagem{
+	float: left;
+	display: inline;
+}
+.foto{
+	float: left;
+	display: inline;
+}
